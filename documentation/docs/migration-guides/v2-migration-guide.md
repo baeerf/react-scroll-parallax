@@ -45,3 +45,6 @@ Layers now accept all [parallax props](/docs/usage/parallax-props) but you will 
 ### Removed default class names
 
 If you relied on either the `parallax-outer`, `parallax-inner`, `parallax-banner` or `parallax-banner-layer-[x]` class names for styling you will need to refactor or set them manually.
+
+
+### ?
